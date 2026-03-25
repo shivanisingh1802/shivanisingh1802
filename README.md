@@ -28,4 +28,4 @@ Transmuting raw data into digital gold. Currently decoding the patterns of the w
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shivani-singh-3a3156308)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-singh-3a3156308)
