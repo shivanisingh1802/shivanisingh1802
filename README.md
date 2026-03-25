@@ -22,8 +22,8 @@ Transmuting raw data into digital gold. Currently decoding the patterns of the w
 ---
 
 ### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanisingh1802&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanisingh1802&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivani-VSingh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-VSingh&layout=compact&theme=radical)
 
 ---
 
