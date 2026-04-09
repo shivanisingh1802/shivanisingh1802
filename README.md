@@ -9,7 +9,7 @@ Transmuting raw data into digital gold. Currently decoding the patterns of the w
 - 🔭 I’m currently completing my **Data Science course & Python DSA Bootcamp**.
 - 🌱 Learning **SQL** and **Machine Learning** fundamentals.
 - 🎯 Goal for 2026: Build 3 high-impact, end-to-end Data Science projects.
-- ⚡ Fun fact: I treat my daily GitHub commits like a morning coffee—non-negotiable.
+
 
 ---
 
